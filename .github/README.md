@@ -1,6 +1,6 @@
 # LAME release snapshots
 
-The files of the release archives of [LAME](https://lame.sourceforge.io/), one commit per release, exactly as published. This is not a fork and not a mirror, and the LAME project does not maintain it.
+The files of the release archives of [LAME](https://lame.sourceforge.io/), one commit per release, exactly as published. This is not a fork and not a mirror. LAME is developed and maintained by its authors at https://lame.sourceforge.io/: nothing is developed or maintained here, and this repository is not affiliated with the project. It only keeps snapshots of the releases.
 
 LAME ("LAME Ain't an MP3 Encoder") is an MP3 encoder developed by the LAME project and its contributors, who are named in the files of the archive (`README`, `ChangeLog`). It is under the LGPL (`COPYING`, `LICENSE`). Bug reports and contributions belong to the project: https://lame.sourceforge.io/.
 
